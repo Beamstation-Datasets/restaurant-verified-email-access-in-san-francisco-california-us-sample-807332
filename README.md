@@ -9,9 +9,9 @@
 | Dataset ID | `807332` |
 | Location | San Francisco |
 | Category | Restaurants |
-| Full dataset size | 1,271 records |
-| Free sample size | 125 records (9.83%) |
-| Last export | 2026-04-07T22:49:20.353671+00:00 |
+| Full dataset size | 1,252 records |
+| Free sample size | 125 records (9.98%) |
+| Last export | 2026-04-15T04:34:09.204763+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-san-francisco-california-us-sample-807332/releases/download/sample-latest/beamstation_807332_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
