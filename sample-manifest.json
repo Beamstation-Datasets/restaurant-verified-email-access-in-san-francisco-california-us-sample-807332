@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f4c5132b-bd4e-4abf-a258-297f6f3e9b65",
+  "export_job_id": "cf188e46-9c35-425c-823d-767575825b9e",
   "id_short": 807332,
-  "published_at": "2026-04-18T19:55:08Z",
+  "published_at": "2026-04-23T07:27:06Z",
   "repo_name": "restaurant-verified-email-access-in-san-francisco-california-us-sample-807332",
   "sample_asset_name": "beamstation_807332_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/807332/beamstation_807332_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 125,
-  "sample_sha256": "9cd68e7556db20d06ac58536b02bbd3621eb5770b0d08ad57eb7609d8e760eb9",
-  "sample_size_bytes": 532388,
-  "total_records": 1252
+  "sample_records": 89,
+  "sample_sha256": "3e2fdbec4efe9606be753eebdb16f0bb332dcd9b058ae3e27dd539980a949c7e",
+  "sample_size_bytes": 378031,
+  "total_records": 898
 }
